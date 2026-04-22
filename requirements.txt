@@ -1,0 +1,24 @@
+# AI Sales Assistant - Lead Prioritization System
+# Core dependencies
+
+# ML & Data
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Dashboard
+streamlit>=1.32.0
+plotly>=5.18.0
+
+# LLM (optional - uses mock if not configured)
+openai>=1.10.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: Email notifications
+# smtplib is built-in to Python
+
+# Optional: Google Sheets
+# gspread>=5.12.0
+# google-auth>=2.27.0
